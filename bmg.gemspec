@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.add_dependency "path", ">= 1.3"
   s.add_dependency "predicate", "~> 2.3", ">= 2.3.3"
 
-  s.add_development_dependency "rake", "~> 10"
+  s.add_development_dependency "rake", "~> 13"
   s.add_development_dependency "rspec", "~> 3.6"
   s.add_development_dependency "roo", ">= 2.7"
   s.add_development_dependency "sequel"
